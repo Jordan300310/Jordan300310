@@ -94,7 +94,8 @@ buscando:     "Colaborar en proyectos backend con Spring Boot / NestJS"
       <p align="center">
         <img src="https://img.shields.io/badge/NestJS-2C3E50?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-2C3E50?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+        <img src="https://img.shields.io/badge/TypeScript-2C3E50?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-2C3E50?style=flat-square&logo=java&logoColor=white" />
       </p>
       <p>API Builder + Virtual Designer, con módulos de gestión de productos, usuarios y operaciones  Diseñada bajo una arquitectura modular y escalable siguiendo buenas prácticas REST.(En Proceso)</p>
       <p align="center">
