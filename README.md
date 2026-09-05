@@ -105,41 +105,6 @@ buscando:     "Colaborar en proyectos backend con Spring Boot / NestJS"
   </tr>
 </table>
 
-<br />
-
-## &nbsp; Métricas & Actividad
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jordan300310&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&title_color=6C7A99&icon_color=6C7A99" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jordan300310&layout=compact&theme=nightowl&hide_border=true&title_color=6C7A99" width="48%" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jordan300310&theme=nightowl&hide_border=true&stroke=6C7A99&ring=6C7A99&fire=6C7A99&currStreakLabel=6C7A99" width="97%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-### 🐍 Actividad de Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jordan300310/Jordan300310/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jordan300310/Jordan300310/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jordan300310/Jordan300310/output/github-contribution-grid-snake.svg" width="97%" />
-</picture>
-
-</div>
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
-
-<div align="center">
-
 **¿Colaboramos?** — Siempre abierto a nuevas oportunidades y proyectos de backend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-espinoza-892342237)
